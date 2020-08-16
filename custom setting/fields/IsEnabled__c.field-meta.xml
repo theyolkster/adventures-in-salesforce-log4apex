@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsEnabled__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Enables the specified log level</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable the specified log level</inlineHelpText>
+    <label>Enable</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

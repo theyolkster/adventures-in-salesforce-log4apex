@@ -10,5 +10,5 @@ log.none('Custom Initialization Message');
 log.debug('Running After Update Handler');
 log.info('Total Accounts in context');
 log.warn('Close to Governor Limits');
-log.ERROR('Error Occured');
+log.error('Error Occured');
 ```
